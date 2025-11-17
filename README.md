@@ -7,7 +7,7 @@ Cult of the Lamb, Inscryption, My Singing Monsters, Sky: Children of the light, 
 </Details>
 <Details close>
 <summary>Other fandoms!</summary>
-Undertale & Deltarune, Friday Night Funkin, Animal Crossing, Brawl Stars, Doki Doki Literature Club, Yandere Simulator, Cookie Run Kingdom, 
+Undertale & Deltarune, Friday Night Funkin, TADC, Animal Crossing, Brawl Stars, Doki Doki Literature Club, Yandere Simulator, Cookie Run Kingdom, 
 Skullgirls, Lacey’s Wardrobe, Mr. TomatoS & Ms.LemonS, Baldi’s Basic, Her Tears Were My Light, Mycopsychosys, Married In Red, Hue, Stardew Valley, Steven Universe, 
 The Amazing World of Gumball, Madness Combat, Popper the performer, Assassination Classroom.
 </Details>
