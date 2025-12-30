@@ -3,7 +3,7 @@ These are my fandoms! (For example videogames, series,...)
 
 <Details close>
 <summary>Main fandoms!</summary>
-Cult of the Lamb, Inscryption, My Singing Monsters, Sky: Children of the light, Kindergarten, FNaF, Hotline Miami.
+Cult of the Lamb, Inscryption, My Singing Monsters, Sky: Children of the light, Kindergarten, FNaF, Hotline Miami, The Hex.
 </Details>
 <Details close>
 <summary>Other fandoms!</summary>
